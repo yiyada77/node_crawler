@@ -1,0 +1,9 @@
+# 忽略操作系统生成的文件
+.DS_Store
+
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略图片和 cvs
+images/
+output.csv
